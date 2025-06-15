@@ -5,5 +5,4 @@ gvenzl/oracle-xe:11
 gvenzl/oracle-xe:18
 bitnami/kafka:latest
 bitnami/zookeeper:3.4.10
-mysql:8.0
 arm64v8/mysql:8.0
